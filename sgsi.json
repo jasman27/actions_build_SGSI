@@ -1,9 +1,9 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.35_OTA_0350_all_2103232117_5a455e79c52e47d2.zip",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/meizu17/9.21.4.6/cn_daily/20210406225844/934652e2/update.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "h2os",
+  "rom_type": "flyme",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
